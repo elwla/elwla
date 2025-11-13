@@ -1,5 +1,5 @@
 
-<img width="1024" height="1024" alt="elwla" src="https://github.com/user-attachments/assets/9a7ace9d-545b-4d41-badc-a04ccbc93e28" />
+<img width="1011" height="488" alt="elwla" src="https://github.com/user-attachments/assets/014fa39f-7bb1-4b46-ac13-4052232ea1b9" />
 
 
 # Hi, I'm Wladimir Soto
