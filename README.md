@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**elwla/elwla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1024" height="1024" alt="elwla" src="https://github.com/user-attachments/assets/9a7ace9d-545b-4d41-badc-a04ccbc93e28" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Wladimir Soto
+
+I am a Computer Engineer with over 10 years of experience in software development, systems administration, and technological project management. Specialized in scalable solutions using technologies such as JavaScript (React, Next.js), Python, Java, and Ruby. Notable experience at Mercado Libre collaborating on digital advertising projects and high-traffic platforms.
+
+
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, python, ruby on rails, flet, tailwind, gnu/linux administration.
