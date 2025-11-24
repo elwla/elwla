@@ -10,7 +10,7 @@ I am a Computer Engineer with over 10 years of experience in software developmen
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, python, ruby on rails, flet, tailwind, gnu/linux administration.
+Javascript, Typescrypt, HTML, CSS, python, ruby on rails, flet, tailwind, gnu/linux administration.
 
 
 ## Stats
